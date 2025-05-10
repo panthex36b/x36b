@@ -26,8 +26,6 @@
 **Deflationary Supply Evolution**
 
 - Year 1: 50,000,000,000  
-- Year 2: 47,500,000,000 (−5 %)  
-- Year 3: 45,125,000,000 (−5 %)  
 
 ### 2. Burning Mechanism
 
