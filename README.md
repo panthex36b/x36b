@@ -25,11 +25,11 @@
 
 **Deflationary Supply Evolution**
 
-- Year 1: 50,000,000,000  
+- Year 1: 50,000,000,000
 
 ### 2. Burning Mechanism
 
-- **Transaction Fee:** 0.1 %–0.2 % per transfer  
+- **Transaction Fee:** 0.1% per transfer  
 - **Fee Split:**
   - 50 % → _burn_ (immediate token destruction)  
   - 40 % → _Treasury_ (100 % converted to Bitcoin)  
